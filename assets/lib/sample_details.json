@@ -5,7 +5,6 @@
     "webCategoryId": 1,
     "controlList": [
       {
-        "status": "Updated",
         "title": "Smart AI Widgets",
         "description": "Highlights smart widgets to enhance the functionality and user experience.",
         "image": "images/smart_ai_components.png",
@@ -55,6 +54,13 @@
                 "title": "Predictive Data Entry",
                 "key": "predictive_data_entry",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_datagrid/predictive_data_entry.dart"
+              },
+              {
+                "type": "sample",
+                "status": "New",
+                "title": "Semantic Filtering",
+                "key": "semantic_filtering",
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_datagrid/semantic_filtering.dart"
               }
             ]
           },
@@ -64,7 +70,6 @@
             "subItems": [
               {
                 "type": "sample",
-                "status": "New",
                 "title": "Maps",
                 "key": "location_finder",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_maps/location_finder.dart",
