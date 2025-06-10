@@ -5,6 +5,7 @@
     "webCategoryId": 1,
     "controlList": [
       {
+        "status": "Updated",
         "title": "Smart AI Widgets",
         "description": "Highlights smart widgets to enhance the functionality and user experience.",
         "image": "images/smart_ai_components.png",
@@ -34,7 +35,7 @@
                 "type": "sample",
                 "title": "Smart Charts",
                 "key": "smart_ai_charts",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_charts/chart_genarator/ai_chart_genarator.dart",
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/ai_samples/ai_charts/ai_smart_chart/smart_chart.dart",
                 "description": "AI-powered chart generator creates interactive and dynamic charts."
               }
             ]
