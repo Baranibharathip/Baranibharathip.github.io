@@ -120,10 +120,10 @@
             "title": "PDF Viewer",
             "platformsToHide": [
               "android",
-              "ios",
+              "iOS",
               "web",
               "windows",
-              "macos"
+              "macOS"
             ],
             "subItems": [
               {
@@ -3456,10 +3456,10 @@
     "webCategoryId": 5,
     "platformsToHide": [
       "android",
-      "ios",
+      "iOS",
       "web",
       "windows",
-      "macos"
+      "macOS"
     ],
     "controlList": [
       {
